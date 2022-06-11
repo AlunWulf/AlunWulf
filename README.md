@@ -1,16 +1,33 @@
-### Hi there 👋
+<img src="https://tenor.com/view/nerowo-fsociety-gif-25016248" align="right" widht="400" height="250">
 
-<!--
-**AlunWulf/AlunWulf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there, I am Alun. :blush: 
+## Cyber Security Researcher
 
-Here are some ideas to get you started:
+<font color="red">print("Hi World i am Alun sixteen years old and high school student") </font>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Reach out to me
+
+[<img width="22" src="https://unpkg.com/simple-icons@v7/icons/youtube.svg" align="left" />][youtube]
+[<img width="22" src="https://unpkg.com/simple-icons@v7/icons/discord.svg" align="left" />][discord]
+
+<br />
+<br />
+
+### Tech I Use 
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" widht="25" height="25">
+
+<details>
+<summary>:bulb: Github Stats </summary>
+<img src="https://github-readme-stats.vercel.app/api?username=AlunWulf&theme=radical">
+</details>
+
+<details>
+<summary>:bulb: Most Used Languages </summary>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlunWulf&layout=compact">
+</details>
+
+[discord]: https://discord.gg/V5ftTYFwXr
+[youtube]: https://www.youtube.com/channel/UCqUEfN4QS6GpmLQF8r7_bnw
+
+
+
